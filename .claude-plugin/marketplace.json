@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "description": "Claude Code plugins maintained by Yegor Bugayenko",
+  "name": "yegor256",
+  "owner": {
+    "email": "yegor256@gmail.com",
+    "name": "Yegor Bugayenko",
+    "url": "https://www.yegor256.com"
+  },
+  "plugins": [
+    {
+      "author": {
+        "email": "yegor256@gmail.com",
+        "name": "Yegor Bugayenko"
+      },
+      "category": "productivity",
+      "description": "Skills for an AI critic that helps writing and proofreading texts: argument analysis, prose rewriting, plain-text formatting, and subtitle proofreading",
+      "homepage": "https://github.com/yegor256/critic",
+      "keywords": [
+        "skills",
+        "writing",
+        "proofreading",
+        "prose",
+        "editing",
+        "critic",
+        "argumentation"
+      ],
+      "license": "MIT",
+      "name": "critic",
+      "repository": "https://github.com/yegor256/critic",
+      "source": {
+        "source": "github",
+        "repo": "yegor256/critic"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}
