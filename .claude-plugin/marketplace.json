@@ -29,8 +29,32 @@
       "name": "critic",
       "repository": "https://github.com/yegor256/critic",
       "source": {
-        "source": "github",
-        "repo": "yegor256/critic"
+        "repo": "yegor256/critic",
+        "source": "github"
+      },
+      "version": "0.1.0"
+    },
+    {
+      "author": {
+        "email": "yegor256@gmail.com",
+        "name": "Yegor Bugayenko"
+      },
+      "category": "productivity",
+      "description": "Skills for an AI witness that reports the outcome of work done by other plugins, skills, and agents to a Telegram chat",
+      "homepage": "https://github.com/yegor256/witness",
+      "keywords": [
+        "skills",
+        "telegram",
+        "reporting",
+        "notifications",
+        "witness"
+      ],
+      "license": "MIT",
+      "name": "witness",
+      "repository": "https://github.com/yegor256/witness",
+      "source": {
+        "repo": "yegor256/witness",
+        "source": "github"
       },
       "version": "0.1.0"
     }
