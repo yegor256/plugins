@@ -64,7 +64,7 @@
         "name": "Yegor Bugayenko"
       },
       "category": "productivity",
-      "description": "A single skill that files one already-identified bug as a new GitHub issue: verifies the defect against the source code, checks the backlog for duplicates, posts a short report pointing to a file and line, and pings the repository owner exactly once — it reports a known finding rather than searching for one",
+      "description": "A single skill that files one already-identified bug as a new GitHub issue: verifies the defect against the source code, checks the backlog for duplicates, posts a short report pointing to a file and line, and pings the repository owner exactly once \u2014 it reports a known finding rather than searching for one",
       "homepage": "https://github.com/yegor256/bugscribe",
       "keywords": [
         "skills",
