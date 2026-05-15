@@ -17,6 +17,10 @@ Currently published plugins:
   — skills for an AI witness that reports the outcome of
     work done by other plugins, skills, and agents to a
     Telegram chat.
+* [`bugscribe`](https://github.com/yegor256/bugscribe)
+  — a single skill that reports an already-identified bug
+    as a new GitHub issue, with a file/line pointer and a
+    one-time ping to the repository owner.
 
 To use any plugin from this marketplace inside [Claude Code],
   add the marketplace once and then install plugins from it:
@@ -25,6 +29,7 @@ To use any plugin from this marketplace inside [Claude Code],
 /plugin marketplace add yegor256/plugins
 /plugin install critic@yegor256
 /plugin install witness@yegor256
+/plugin install bugscribe@yegor256
 ```
 
 The first command registers this repository as a plugin marketplace

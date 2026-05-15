@@ -57,6 +57,31 @@
         "source": "github"
       },
       "version": "0.1.0"
+    },
+    {
+      "author": {
+        "email": "yegor256@gmail.com",
+        "name": "Yegor Bugayenko"
+      },
+      "category": "productivity",
+      "description": "A single skill that files one already-identified bug as a new GitHub issue: verifies the defect against the source code, checks the backlog for duplicates, posts a short report pointing to a file and line, and pings the repository owner exactly once — it reports a known finding rather than searching for one",
+      "homepage": "https://github.com/yegor256/bugscribe",
+      "keywords": [
+        "skills",
+        "github",
+        "bug-reports",
+        "issues",
+        "code-review",
+        "automation"
+      ],
+      "license": "MIT",
+      "name": "bugscribe",
+      "repository": "https://github.com/yegor256/bugscribe",
+      "source": {
+        "repo": "yegor256/bugscribe",
+        "source": "github"
+      },
+      "version": "0.1.0"
     }
   ]
 }
