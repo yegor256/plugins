@@ -4,7 +4,6 @@
 
 Claude Code marketplace listing every plugin maintained
   under the `yegor256` GitHub account.
-
 Each plugin lives in its own repository;
   this repo is only the registry that ties them together
   under a single marketplace name.
@@ -37,7 +36,18 @@ The first command registers this repository as a plugin marketplace
   the remaining commands install plugins from it.
 Repeat the install command for every other plugin you want.
 
-To update later, run `/plugin marketplace update yegor256`;
-  to remove a plugin, run `/plugin uninstall <name>@yegor256`.
+To update later, run:
+
+```text
+/plugin marketplace update yegor256
+```
+
+To remove a plugin, run:
+
+```text
+/plugin uninstall <name>@yegor256
+```
+
+That's it.
 
 [Claude Code]: https://code.claude.com/docs/en/plugins
