@@ -89,7 +89,7 @@
         "name": "Yegor Bugayenko"
       },
       "category": "productivity",
-      "description": "A single skill that submits the commits on the current local branch as a new GitHub pull request: pushes the branch to the remote, opens the pull request with a clear title and a short prose body that explains what changed and why, and pings the repository owner exactly once — it ships work that already exists rather than producing new commits",
+      "description": "A single skill that submits the commits on the current local branch as a new GitHub pull request: pushes the branch to the remote, opens the pull request with a clear title and a short prose body that explains what changed and why, and pings the repository owner exactly once \u2014 it ships work that already exists rather than producing new commits",
       "homepage": "https://github.com/yegor256/courier",
       "keywords": [
         "skills",
@@ -103,6 +103,30 @@
       "repository": "https://github.com/yegor256/courier",
       "source": {
         "repo": "yegor256/courier",
+        "source": "github"
+      },
+      "version": "0.1.0"
+    },
+    {
+      "author": {
+        "email": "yegor256@gmail.com",
+        "name": "Yegor Bugayenko"
+      },
+      "category": "productivity",
+      "description": "A single skill that hardens the style checkers and static analyzers already wired into a project: discovers every configuration in place, raises each tool to its strictest practical setting, and adds a list of custom rules on top — it cranks what is configured rather than introducing a new toolchain",
+      "homepage": "https://github.com/yegor256/purist",
+      "keywords": [
+        "skills",
+        "static-analysis",
+        "linting",
+        "code-quality",
+        "automation"
+      ],
+      "license": "MIT",
+      "name": "purist",
+      "repository": "https://github.com/yegor256/purist",
+      "source": {
+        "repo": "yegor256/purist",
         "source": "github"
       },
       "version": "0.1.0"
