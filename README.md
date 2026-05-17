@@ -23,6 +23,11 @@ Currently published plugins:
   — a single skill that reports an already-identified bug
     as a new GitHub issue, with a file/line pointer and a
     one-time ping to the repository owner.
+* [`courier`](https://github.com/yegor256/courier)
+  — a single skill that submits the commits on the current
+    local branch as a new GitHub pull request, with a short
+    prose explanation and a one-time ping to the repository
+    owner.
 
 To use any plugin from this marketplace inside [Claude Code],
   add the marketplace once and then install plugins from it:
@@ -32,6 +37,7 @@ To use any plugin from this marketplace inside [Claude Code],
 /plugin install critic@yegor256
 /plugin install witness@yegor256
 /plugin install bugscribe@yegor256
+/plugin install courier@yegor256
 ```
 
 The first command registers this repository as a plugin marketplace

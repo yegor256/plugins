@@ -82,6 +82,30 @@
         "source": "github"
       },
       "version": "0.1.0"
+    },
+    {
+      "author": {
+        "email": "yegor256@gmail.com",
+        "name": "Yegor Bugayenko"
+      },
+      "category": "productivity",
+      "description": "A single skill that submits the commits on the current local branch as a new GitHub pull request: pushes the branch to the remote, opens the pull request with a clear title and a short prose body that explains what changed and why, and pings the repository owner exactly once — it ships work that already exists rather than producing new commits",
+      "homepage": "https://github.com/yegor256/courier",
+      "keywords": [
+        "skills",
+        "github",
+        "pull-requests",
+        "code-review",
+        "automation"
+      ],
+      "license": "MIT",
+      "name": "courier",
+      "repository": "https://github.com/yegor256/courier",
+      "source": {
+        "repo": "yegor256/courier",
+        "source": "github"
+      },
+      "version": "0.1.0"
     }
   ]
 }
