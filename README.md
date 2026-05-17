@@ -1,8 +1,11 @@
-# Plugins
+# The Plugin Bazaar
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/plugins/blob/master/LICENSES/MIT.txt)
 
-Claude Code marketplace listing every plugin maintained
+> A Claude Code marketplace of small, opinionated
+> plugins maintained under `yegor256`.
+
+This repository lists every plugin maintained
   under the `yegor256` GitHub account.
 Each plugin lives in its own repository;
   this repo is only the registry that ties them together
