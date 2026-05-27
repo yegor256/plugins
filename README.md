@@ -37,7 +37,7 @@ To use any plugin from this marketplace inside [Claude Code],
   add the marketplace once and then install plugins from it:
 
 ```text
-/plugin marketplace add yegor256/plugins
+/plugin marketplace add https://github.com/yegor256/plugins
 /plugin install critic@yegor256
 /plugin install witness@yegor256
 /plugin install bugscribe@yegor256
