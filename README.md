@@ -32,6 +32,10 @@ Currently published plugins:
   — a single skill that hardens the style checkers and
     static analyzers already wired into a project and adds
     a list of custom rules on top.
+* [`evangelist`](https://github.com/yegor256/evangelist)
+  — skills that spread your content across social networks
+    such as X and LinkedIn, each publishing one piece of
+    content to one network through a real headless browser.
 
 To use any plugin from this marketplace inside [Claude Code],
   add the marketplace once and then install plugins from it:
@@ -43,6 +47,7 @@ To use any plugin from this marketplace inside [Claude Code],
 /plugin install bugscribe@yegor256
 /plugin install courier@yegor256
 /plugin install purist@yegor256
+/plugin install evangelist@yegor256
 ```
 
 The first command registers this repository as a plugin marketplace
