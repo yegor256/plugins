@@ -130,32 +130,6 @@
         "source": "github"
       },
       "version": "0.1.0"
-    },
-    {
-      "author": {
-        "email": "yegor256@gmail.com",
-        "name": "Yegor Bugayenko"
-      },
-      "category": "productivity",
-      "description": "A bundle of skills that spread your content across social networks such as X and LinkedIn, where each skill publishes one piece of content to one network on behalf of an account you control by driving a real headless browser rather than an official API",
-      "homepage": "https://github.com/yegor256/evangelist",
-      "keywords": [
-        "skills",
-        "social-media",
-        "twitter",
-        "x",
-        "linkedin",
-        "automation",
-        "content-marketing"
-      ],
-      "license": "MIT",
-      "name": "evangelist",
-      "repository": "https://github.com/yegor256/evangelist",
-      "source": {
-        "repo": "yegor256/evangelist",
-        "source": "github"
-      },
-      "version": "0.1.0"
     }
   ]
 }
