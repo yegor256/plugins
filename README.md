@@ -62,6 +62,7 @@ To remove a plugin, run:
 /plugin uninstall <name>@yegor256
 ```
 
-That's it.
+BTW, my system prompt is in the [yegor256/prompt] repository.
 
 [Claude Code]: https://code.claude.com/docs/en/plugins
+[yegor256/prompt]: https://github.com/yegor256/prompt
